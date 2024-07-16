@@ -1,0 +1,38 @@
+body {
+        margin: 0;
+        padding: 0;
+        background: #E9E9E9;
+    }
+    .container {
+        width:600px;
+        margin: auto;
+        background: white;
+        padding: 10px 0px;
+    }
+    .post-header {
+        display: flex;
+         justify-content: space-between;
+         margin: 0px 10px;
+     }
+     .post-title {
+        display: flex;
+     }
+      i {
+        font-size: 25px;
+        margin: 0px 0px 0px 15px;
+     }
+    h1 {
+        font-size: 20px;
+        margin: 0;
+    }
+    .post-icons {
+        display: flex;
+        justify-content: space-between;
+        
+    }
+    .post-body{
+        padding: 0px 10px;
+    }
+    p {
+        font-family: roboto;
+    }
